@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDE & Editor
+Task_Buddy\.vscode
+Task_Buddy\typings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# MicroPython specific
+.pymakr/
+*.pyc.bak
+.micropython_stubs/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+.#*
+
+# Device artifacts
+*.mpbin
+build/
+firmware/
+
+# OS files
+.directory
+ehthumbs.db
