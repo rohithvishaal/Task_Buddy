@@ -29,8 +29,8 @@ env/
 .env
 
 # IDE & Editor
-Task_Buddy\.vscode
-Task_Buddy\typings
+Task_Buddy/.vscode
+Task_Buddy/typings
 .vscode/
 .idea/
 *.swp
